@@ -6,3 +6,6 @@ public class App {
         System.out.println("Welcome to the Java application!");
     }
 }
+
+this is a sample code
+    
